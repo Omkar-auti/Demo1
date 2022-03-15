@@ -1,1 +1,2 @@
 New file for text edit.
+You can use this for text.
