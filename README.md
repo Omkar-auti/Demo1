@@ -1,1 +1,1 @@
-This is instrction module for Projects.
+This is instrction module for Project.
